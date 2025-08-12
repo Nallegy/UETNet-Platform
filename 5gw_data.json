@@ -1,0 +1,23 @@
+{
+    "narratives": [
+        {"date": "2024-01-07", "Digital ID": 30, "Climate Crisis": 55, "CBDC": 20},
+        {"date": "2024-04-14", "Digital ID": 45, "Climate Crisis": 65, "CBDC": 35},
+        {"date": "2024-07-21", "Digital ID": 60, "Climate Crisis": 70, "CBDC": 50},
+        {"date": "2025-01-05", "Digital ID": 75, "Climate Crisis": 80, "CBDC": 65},
+        {"date": "2025-05-11", "Digital ID": 85, "Climate Crisis": 75, "CBDC": 80}
+    ],
+    "regulatory": [
+        {"country_iso": "USA", "Digital ID Status": 2, "CBDC Status": 1},
+        {"country_iso": "CAN", "Digital ID Status": 2, "CBDC Status": 2},
+        {"country_iso": "GBR", "Digital ID Status": 3, "CBDC Status": 2},
+        {"country_iso": "DEU", "Digital ID Status": 2, "CBDC Status": 2},
+        {"country_iso": "FRA", "Digital ID Status": 2, "CBDC Status": 2},
+        {"country_iso": "AUS", "Digital ID Status": 3, "CBDC Status": 1},
+        {"country_iso": "CHN", "Digital ID Status": 3, "CBDC Status": 3},
+        {"country_iso": "RUS", "Digital ID Status": 2, "CBDC Status": 3},
+        {"country_iso": "IND", "Digital ID Status": 3, "CBDC Status": 1},
+        {"country_iso": "BRA", "Digital ID Status": 2, "CBDC Status": 2},
+        {"country_iso": "NGA", "Digital ID Status": 1, "CBDC Status": 3},
+        {"country_iso": "ZAF", "Digital ID Status": 1, "CBDC Status": 1}
+    ]
+}
